@@ -1,0 +1,4 @@
+Manifest-Version: 2.0
+Main-Class: jartest.SDFT
+Class-Path: jartest\esri_mo20.jar jartest\esri_mo20res.jar jartest\esri_mo20img
+X-COMMENT: Main-Class
